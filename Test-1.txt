@@ -1,5 +1,7 @@
-This is the test of Git and GitHub collaboration
+This is the test of Git and GitHub collaboration and more.
 This is the first change of the file.
 This is the new feature added by GooWeiLi.
 This is another new feature added by GooWeiLi.
 This is added by the owner.
+The first line is updated and may conflict with the original.
+
