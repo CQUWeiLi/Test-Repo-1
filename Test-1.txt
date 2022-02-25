@@ -2,3 +2,4 @@ This is the test of Git and GitHub collaboration
 This is the first change of the file.
 This is the new feature added by GooWeiLi.
 This is another new feature added by GooWeiLi.
+This is added by the owner.
